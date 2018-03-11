@@ -6,6 +6,7 @@ Implement Ads in Xamarin Forms
 Document
 
 Microsoft Ads Document: https://docs.microsoft.com/en-us/windows/uwp/monetize/display-ads-in-your-app
+
 Thank you to James Montemagno 
 Android and iOS Document from James Montemagno: 
 
