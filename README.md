@@ -1,6 +1,8 @@
 # XamarinFormsAds
 Implement Ads in Xamarin Forms
 
+YouTube: https://www.youtube.com/watch?v=CbCR0smKysY&feature=youtu.be
+
 1. Create Google AdMob ID and Microsoft Ads ID (You need Microsoft Dev Account to access).
 
 Document
