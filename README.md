@@ -3,6 +3,8 @@ Implement Ads in Xamarin Forms
 
 YouTube: https://youtu.be/Q12jBy04OyA
 
+For add Facebook Ads in Xamarin Forms: https://youtu.be/fENpVR0rlO8
+
 1. Create Google AdMob ID and Microsoft Ads ID (You need Microsoft Dev Account to access).
 
 Document
